@@ -9,8 +9,8 @@ authors:
     given-names: Yize
 version: 1.0.0
 date-released: 2026-08-19
-repository-code: "https://github.com/Izzy419/2026-SIAT"
-url: "https://github.com/Izzy419/2026-SIAT"
+repository-code: "https://github.com/Izzy419/2026SIAT-fMRI-foundation-model"
+url: "https://github.com/Izzy419/2026SIAT-fMRI-foundation-model"
 keywords:
   - fMRI
   - foundation model
