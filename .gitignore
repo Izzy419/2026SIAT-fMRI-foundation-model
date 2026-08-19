@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Research data (NSD/COCO data are not redistributed)
+data/
+**/data/
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+*.mat
+
+# Generated arrays, checkpoints, and experiment outputs
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+outputs/
+results/
+runs/
+wandb/
+*.log
+nohup.out
+
+# OS files
+.DS_Store
+Thumbs.db

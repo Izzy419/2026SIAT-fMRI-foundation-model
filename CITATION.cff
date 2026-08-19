@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this software and the associated report."
+title: "fMRI Foundation Models for Single-Trial Visual Decoding"
+type: software
+authors:
+  - family-names: Luo
+    given-names: Kexin
+  - family-names: Wang
+    given-names: Yize
+version: 1.0.0
+date-released: 2026-08-19
+repository-code: "https://github.com/Izzy419/2026-SIAT"
+url: "https://github.com/Izzy419/2026-SIAT"
+keywords:
+  - fMRI
+  - foundation model
+  - JEPA
+  - graph neural network
+  - image retrieval
